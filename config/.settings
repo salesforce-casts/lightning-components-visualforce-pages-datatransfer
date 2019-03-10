@@ -1,0 +1,14 @@
+{
+    "projectName": "dataTransfer",
+    "username": "iam_teja@salesforcecasts.com",
+    "id": "2600d300-4300-11e9-8e18-2573983edc22",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://teja-dev-ed-dev-ed.my.salesforce.com",
+    "workspace": "/Users/KrishnaTeja/Documents",
+    "subscription": [
+        "ApexPage",
+        "AuraDefinitionBundle"
+    ]
+}

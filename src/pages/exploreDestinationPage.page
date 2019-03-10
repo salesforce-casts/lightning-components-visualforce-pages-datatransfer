@@ -1,0 +1,19 @@
+<apex:page >
+    
+    <apex:includeLightning />
+    
+    
+    <div id="vf_container">
+        
+    </div>
+    
+    <script>
+    $Lightning.use("c:dataTransferToVisualForcePage", function(){
+        $Lightning.createComponent("c:exploreBroadcasterComponent", {}, "vf_container", function(){
+            $A.eventService.addHandler({"event": "c:myDataTransfer", "handler": foobar});
+        });
+    });
+    </script>
+    
+   
+</apex:page>

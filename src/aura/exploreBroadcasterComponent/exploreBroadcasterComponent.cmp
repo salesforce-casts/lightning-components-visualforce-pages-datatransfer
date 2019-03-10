@@ -1,0 +1,5 @@
+<aura:component >
+    <aura:registerEvent name="appEvent" type="c:myDataTransfer" />
+    
+    <lightning:button label="sendData" onclick="{! c.handleSendData }"/>
+</aura:component>
