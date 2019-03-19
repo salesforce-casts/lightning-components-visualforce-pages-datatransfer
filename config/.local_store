@@ -1,4 +1,18 @@
 {
+    "exploreDataReceiver/exploreDataReceiverController.js.undefined": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-19T13:41:43.000Z",
+        "fileName": "unpackaged/aura/exploreDataReceiver/exploreDataReceiverController.js",
+        "fullName": "exploreDataReceiver/exploreDataReceiverController.js",
+        "id": "0Ad6F000001GaUeSAK",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-19T13:41:58.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "myDataTransfer/myDataTransfer.evt.undefined": {
         "createdById": "0056F000009FnCGQA0",
         "createdByName": "Krishna Teja Karnam",
@@ -23,6 +37,20 @@
         "lastModifiedById": "0056F000009FnCGQA0",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-03-06T08:15:15.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreDataReceiver/exploreDataReceiver.cmp.undefined": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-19T12:07:11.000Z",
+        "fileName": "unpackaged/aura/exploreDataReceiver/exploreDataReceiver.cmp",
+        "fullName": "exploreDataReceiver/exploreDataReceiver.cmp",
+        "id": "0Ad6F000001GaRKSA0",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-19T13:41:42.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -53,6 +81,20 @@
         "lastModifiedDate": "2019-03-06T07:29:04.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreDataBroadcaster.page": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-19T12:09:34.000Z",
+        "fileName": "unpackaged/pages/exploreDataBroadcaster.page",
+        "fullName": "exploreDataBroadcaster",
+        "id": "0666F00000BwvbqQAB",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-19T13:45:29.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
         "mmState": "clean"
     },
     "exploreDestinationPage.page": {

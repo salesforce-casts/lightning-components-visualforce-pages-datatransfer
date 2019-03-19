@@ -1,0 +1,20 @@
+<apex:page >
+    <apex:includeLightning />
+    
+    
+    <div id="vf_lightning"></div>
+    
+    
+    <script>
+    	$Lightning.use("c:exploreFireEventsFromVFApp", function(){
+        	$Lightning.createComponent("c:exploreDataReceiver",{},
+                                      "vf_lightning",
+                                      function(cmp){
+                                      	var appEvent = $A.get('e.c:exploreDataReceiverAppEvent');
+                                            
+                                          appEvent.fire();
+                                      });
+        });
+    </script>
+    
+</apex:page>
